@@ -10,54 +10,30 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:ishratjandu21@gmail.com" data-cursor="disable">
+                ishratjandu21@gmail.com
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>402-840-5650</p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>M.S. Biological Systems Engineering<br />University of Nebraska-Lincoln</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
-            <a
-              href="https://github.com/raxx21"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
+            <a href="https://github.com/Ishrat2110" target="_blank" data-cursor="disable" className="contact-social">
               Github <MdArrowOutward />
             </a>
-            <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
+            <a href="https://linkedin.com/in/ishrat-jandu-b3b478255" target="_blank" data-cursor="disable" className="contact-social">
+              LinkedIn <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Ishrat Jandu</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

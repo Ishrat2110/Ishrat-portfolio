@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Agricultural Systems Engineer specializing in soil–water–crop data integration,
+          geospatial analysis, and predictive modeling to advance soil health and
+          resilient, resource-efficient farming systems. Currently pursuing my M.S. in
+          Biological Systems Engineering at the University of Nebraska-Lincoln, where I
+          develop machine learning models for precision agriculture, wearable sensor
+          systems for livestock emissions monitoring, and data-driven tools for
+          sustainable crop management.
         </p>
       </div>
     </div>
