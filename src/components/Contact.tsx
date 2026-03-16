@@ -17,7 +17,8 @@ const Contact = () => {
             <h4>Phone</h4>
             <p>402-840-5650</p>
             <h4>Education</h4>
-            <p>M.S. Biological Systems Engineering<br />University of Nebraska-Lincoln</p>
+            <p>M.S. Biological Systems Engineering<br />University of Nebraska-Lincoln (2024–2026)</p>
+            <p>B.Tech Agricultural Engineering<br />Punjab Agricultural University (2020–2024)</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
