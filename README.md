@@ -62,7 +62,6 @@ Punjab Agricultural University · 2020 – 2024
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishrat%20Jandu-0077b6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishrat-jandu-b3b478255)
 [![GitHub](https://img.shields.io/badge/GitHub-Ishrat2110-2d6a4f?style=flat-square&logo=github&logoColor=white)](https://github.com/Ishrat2110)
 
-📍 Lincoln, Nebraska · 📞 402-840-5650
 
 </div>
 
