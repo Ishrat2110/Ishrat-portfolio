@@ -1,15 +1,18 @@
-# My Portfolio Wesbite - Overview 🚀
+# Ishrat Jandu - Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Personal portfolio website of Ishrat Jandu, Agricultural Systems Engineer and Graduate Research Assistant at the University of Nebraska-Lincoln.
 
-## Instructions 🛠️
+## About
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This portfolio showcases my research, projects, and experience in:
+- Machine Learning for precision agriculture
+- IoT & sensor systems for livestock emissions monitoring
+- Geospatial analysis and remote sensing
+- Predictive modeling for agricultural systems
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Techstack
 
-![Portfolio-Preview](public/images/preview.png)
+React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 
 ## License
 
